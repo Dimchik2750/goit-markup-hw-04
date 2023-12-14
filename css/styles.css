@@ -17,7 +17,7 @@ body{
   overflow: hidden;
 }
 
-h1,h2,h2,p{
+h1,h2,h3,p{
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -456,7 +456,7 @@ padding: 100px 0;
 }
 
 .logo-footer{
-  color: #F4F4FD
+  color: #F4F4FD;
 }
 
 .text-footer{
@@ -501,6 +501,7 @@ color: #F4F4FD;
 background-color: #31D0AA;
 }
 
-.social-icon{
- 
+.footer-icon{
+  fill: #F4F4FD;
 }
+
